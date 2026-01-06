@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "data-management-481017",
+  "private_key_id": "b9104a723c044c5734ed61de704eec397e39aa2f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDgFiv08CGn9z0A\nrBuNZenlFMPOr7QObOHrpJgt8F+itmy6olc/vli5PyJuYxt/VHui95WTw6qQz9ux\n+vWDN1tgUA2NQNwTHoZLtjYvNEM/Ykcdf0YPol+veoQGdMISWsZBU5KZfn5RNh52\nIKSPcer4j3S+pR3s6GlXsOXd1BLPIsQiBjXHMoOWPvLYu/9iZ7CJsfJtCHhMII9A\nbxTEWLbLeBDsGe+jFgIjMwW+sHrOIoo0wiTaSjnDD1vvyKPwJM2p+4ivPq9RoMgJ\nkploHiJx2NumBQJx8bAn0C5QvfzKpSoXBF8g6ZUgsabIaS9ImZxekOt9YstMFHW+\nlVIc+PtZAgMBAAECggEAEmrwGPUlpwMEogoDR7dhJoFy6Il7cJYVaYNBOMFhcuOw\ngxR1vFj+PNeKEm2V5HzCnq3fvuHdooJbCcFZLXw+x+c8fegfTnj7S7zBrlaK0mpW\n8v8zeHR9jdQxhsBQ9SY91j+ytGf3pOAgV9AuBlY0HFLaIxM6Ju8hPWJeOkHEe/61\nouHE0SJVRCxsi5R1M68OoufmXm1wn82cFWZ0C4SkO7kfUvLXdZQa9aPgDPbwbKDX\nKsxsvwyO1ZP9a6adOOgMmOJHKub7J5Zy6Pt9P5EpMkrZsmCTm4w6SAis9lwwbG7M\nRCd2zkGKjY/GzWJjRXe+HkTFd+k78EK0ZbqIKPxtuwKBgQD1gS56nw4jV2LCQ1pa\naIm2XxTCEhlJXcYQj2WfVt+xkdmSwCd+BK0lvgAbGMsnHdGD1U8GcVFxVOvjFchT\nypjXXBsdCDXFlVOjRBMF5gKa9iSf/bIGnVWAvOsws/XrzfvxKS8Hhn9iyc8glIxm\nxTfTwJUcWmlREfmb1rZeDGhQiwKBgQDpqpcP7Kfo1enFmhAHTRK9Z+vO1vB2zYyd\n3ke4fQ1uz55lQ7neRHynXj6BAT3foGH0NhLgRVAL70ynU1WChgMWIE4PohXEI5g8\nNIY+H+w0UIY0U+F952QKhlfKWovoj2NBGxdVkqbNOPORn//TkeaLSLP8WWHmU1u3\njCYO0jTcKwKBgBIqIbc+53vj7lGzTA8eZvoQZOfLEQXlo078XSeB9QEdany6LPHd\nBLajLTzUA8v8H9FiSfuPDNiW0PE3XmAcwFxG21a1kczxtIOC+OlZ0F2I0sLnsXFd\n2MKyt7Ad0JdG4VpBktI6uFgl2GZvt0evVecb+6xiYCJ4cwB9zXZ98oXrAoGBAOF+\nk+t1OZDzpnbgN2mkUlpgiGsCd+pecL4EvXfnjmgKilQ1KJC7zQQDahQ6q4g8kWsI\nJ+0wVpA97d5oCFQ+mYnnwQ1LIPA4XXh0Q7x+OAdAUlL7Q9epzpxtixknim7yuRki\nWMFnFftkY4F8Q3jcCv0NO0xiwZxxg0g9Qpj4+LQjAoGBAImsB0vJcsn7bkHY9Tso\n4Xr1RPXDD/6bgzgU/QH/z7ibsLd2Rz3OF1341FEEsOaBwwhDCJ4LWC6+7AP9in2i\nVduBA0KkNJ1QsKsG4ZwhDeSsfEAIPK3wzxg9YlahvWMQNPsrohWBGqvyRPqpFWgX\nKxabmWBMwY0FJiy8G+CCip7Y\n-----END PRIVATE KEY-----\n",
+  "client_email": "farah-gaida@data-management-481017.iam.gserviceaccount.com",
+  "client_id": "114078990200564906204",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/farah-gaida%40data-management-481017.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
